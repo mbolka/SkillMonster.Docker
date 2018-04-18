@@ -17,3 +17,4 @@ In order to create your mssql-server:
 3. Navigate to folder docker.
 4. Run file `/bin/bash install.sh`.
 5. Your database will be created on address: `127.0.0.1:1433`.
+6. Credentials to database can be viewed and modified in Dockerfile.
